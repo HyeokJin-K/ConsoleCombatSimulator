@@ -12,4 +12,3 @@ Practice for build basic combat system project
 
 
 시뮬레이션 시작 -> 스피드가 빠른 개체가 먼저 공격 -> 느린 개체가 공격 -> 번갈아가면서 차례대로 공격을 반복 -> 어느 한 쪽의 currentHp가 0이 될 경우 Die 메서드 실행 후 시뮬레이션 종료.
-<img width="58" height="42" alt="스크린샷 2026-05-23 123516" src="https://github.com/user-attachments/assets/0e21edbe-f434-4777-b306-291425733e72" />
