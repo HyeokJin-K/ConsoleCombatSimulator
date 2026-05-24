@@ -9,3 +9,6 @@ Practice for build basic combat system project
   - C# 기초적인 인터페이스 및 클래스 설계.
   - Character 클래스를 상속받은 Enemy, Player 객체.
   - Character 기본 스탯 (Name, MaxHp, AttackPower, Speed) 및 행동(Attack, Die)
+
+
+시뮬레이션 시작 -> 스피드가 빠른 개체가 먼저 공격 -> 느린 개체가 공격 -> 번갈아가면서 차례대로 공격을 반복 -> 어느 한 쪽의 currentHp가 0이 될 경우 Die 메서드 실행 후 시뮬레이션 종료.
