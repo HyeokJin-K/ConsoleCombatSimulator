@@ -11,4 +11,5 @@ Practice for build basic combat system project
   - Character 기본 스탯 (Name, MaxHp, AttackPower, Speed) 및 행동(Attack, Die)
 
 
-시뮬레이션 시작 -> 스피드가 빠른 개체가 먼저 공격 -> 느린 개체가 공격 -> 번갈아가면서 차례대로 공격을 반복 -> 어느 한 쪽의 currentHp가 0이 될 경우 Die 메서드 실행 후 시뮬레이션 종료.
+#5/24. 시뮬레이션 시작 -> 스피드가 빠른 개체가 먼저 공격 -> 느린 개체가 공격 -> 번갈아가면서 차례대로 공격을 반복 -> 어느 한 쪽의 currentHp가 0이 될 경우 Die 메서드 실행 후 시뮬레이션 종료.
+//콘솔 환경에서 텍스트 출력으로만 구현하는게 은근 귀찮고 어렵다... 무엇보다 텍스트만 있어서 재미가 없다..
