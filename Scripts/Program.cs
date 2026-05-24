@@ -20,40 +20,40 @@ namespace Console_Combat_Simulator
             // 어느 한 개체가 죽으면 루프 종료
             //
             while (enemy.IsAlive() && player.IsAlive())
-            {                
-                DeclineCharaterBehaviorOrder(enemy, player);
+            {
+                DecideCharaterBehaviorOrder(enemy, player);
                 Console.WriteLine("");
             }
 
             Console.WriteLine("전투 시뮬레이션 종료.");
         }
 
-        private static void DeclineCharaterBehaviorOrder(Character ch1, Character ch2)
+        private static void DecideCharaterBehaviorOrder(Character ch1, Character ch2)
         {
             if (ch1.Speed > ch2.Speed)
             {
-                ch1.DoAttack(ch2);
-                ch2.DoAttack(ch1);
+                if (ch1.IsAlive()) ch1.DoAttack(ch2);
+                if (ch2.IsAlive()) ch2.DoAttack(ch1);
             }
             else if (ch2.Speed > ch1.Speed)
             {
-                ch2.DoAttack(ch1);
-                ch1.DoAttack(ch2);
+                if (ch2.IsAlive()) ch2.DoAttack(ch1);
+                if (ch1.IsAlive()) ch1.DoAttack(ch2);
             }
             else
             {
                 Random rnd = new Random();
                 int rndValue = rnd.Next(0, 2);
 
-                if(rndValue == 0)
+                if (rndValue == 0)
                 {
-                    ch1.DoAttack(ch2);
-                    ch2.DoAttack(ch1);
+                    if (ch1.IsAlive()) ch1.DoAttack(ch2);
+                    if (ch2.IsAlive()) ch2.DoAttack(ch1);
                 }
                 else
                 {
-                    ch2.DoAttack(ch1);
-                    ch1.DoAttack(ch2);
+                    if (ch2.IsAlive()) ch2.DoAttack(ch1);
+                    if (ch1.IsAlive()) ch1.DoAttack(ch2);
                 }
             }
         }
