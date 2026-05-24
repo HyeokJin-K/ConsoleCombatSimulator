@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\blast\\source\\repos\\Console_Combat_Simulator\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EC2982C5-4BD2-4BB3-BC47-0EEAC8082C0E}|Console_Combat_Simulator.csproj|c:\\users\\blast\\source\\repos\\console_combat_simulator\\scripts\\combatsimulator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC2982C5-4BD2-4BB3-BC47-0EEAC8082C0E}|Console_Combat_Simulator.csproj|solutionrelative:scripts\\combatsimulator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC2982C5-4BD2-4BB3-BC47-0EEAC8082C0E}|Console_Combat_Simulator.csproj|c:\\users\\blast\\source\\repos\\console_combat_simulator\\scripts\\character.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC2982C5-4BD2-4BB3-BC47-0EEAC8082C0E}|Console_Combat_Simulator.csproj|solutionrelative:scripts\\character.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC2982C5-4BD2-4BB3-BC47-0EEAC8082C0E}|Console_Combat_Simulator.csproj|c:\\users\\blast\\source\\repos\\console_combat_simulator\\scripts\\enemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC2982C5-4BD2-4BB3-BC47-0EEAC8082C0E}|Console_Combat_Simulator.csproj|solutionrelative:scripts\\enemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC2982C5-4BD2-4BB3-BC47-0EEAC8082C0E}|Console_Combat_Simulator.csproj|c:\\users\\blast\\source\\repos\\console_combat_simulator\\scripts\\idamageable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC2982C5-4BD2-4BB3-BC47-0EEAC8082C0E}|Console_Combat_Simulator.csproj|solutionrelative:scripts\\idamageable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC2982C5-4BD2-4BB3-BC47-0EEAC8082C0E}|Console_Combat_Simulator.csproj|c:\\users\\blast\\source\\repos\\console_combat_simulator\\scripts\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC2982C5-4BD2-4BB3-BC47-0EEAC8082C0E}|Console_Combat_Simulator.csproj|solutionrelative:scripts\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CombatSimulator.cs",
+              "DocumentMoniker": "C:\\Users\\blast\\source\\repos\\Console_Combat_Simulator\\Scripts\\CombatSimulator.cs",
+              "RelativeDocumentMoniker": "Scripts\\CombatSimulator.cs",
+              "ToolTip": "C:\\Users\\blast\\source\\repos\\Console_Combat_Simulator\\Scripts\\CombatSimulator.cs",
+              "RelativeToolTip": "Scripts\\CombatSimulator.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAswBcAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-24T05:29:40.227Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Enemy.cs",
+              "DocumentMoniker": "C:\\Users\\blast\\source\\repos\\Console_Combat_Simulator\\Scripts\\Enemy.cs",
+              "RelativeDocumentMoniker": "Scripts\\Enemy.cs",
+              "ToolTip": "C:\\Users\\blast\\source\\repos\\Console_Combat_Simulator\\Scripts\\Enemy.cs",
+              "RelativeToolTip": "Scripts\\Enemy.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABwAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-24T05:27:27.344Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Player.cs",
+              "DocumentMoniker": "C:\\Users\\blast\\source\\repos\\Console_Combat_Simulator\\Scripts\\Player.cs",
+              "RelativeDocumentMoniker": "Scripts\\Player.cs",
+              "ToolTip": "C:\\Users\\blast\\source\\repos\\Console_Combat_Simulator\\Scripts\\Player.cs",
+              "RelativeToolTip": "Scripts\\Player.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAB0AAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-24T05:18:23.832Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IDamageable.cs",
+              "DocumentMoniker": "C:\\Users\\blast\\source\\repos\\Console_Combat_Simulator\\Scripts\\IDamageable.cs",
+              "RelativeDocumentMoniker": "Scripts\\IDamageable.cs",
+              "ToolTip": "C:\\Users\\blast\\source\\repos\\Console_Combat_Simulator\\Scripts\\IDamageable.cs",
+              "RelativeToolTip": "Scripts\\IDamageable.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-24T05:14:45.82Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Character.cs",
+              "DocumentMoniker": "C:\\Users\\blast\\source\\repos\\Console_Combat_Simulator\\Scripts\\Character.cs",
+              "RelativeDocumentMoniker": "Scripts\\Character.cs",
+              "ToolTip": "C:\\Users\\blast\\source\\repos\\Console_Combat_Simulator\\Scripts\\Character.cs",
+              "RelativeToolTip": "Scripts\\Character.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAUwBwAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-24T04:47:15.506Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

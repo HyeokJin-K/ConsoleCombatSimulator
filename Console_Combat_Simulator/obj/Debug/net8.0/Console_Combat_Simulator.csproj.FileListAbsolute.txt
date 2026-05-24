@@ -1,0 +1,14 @@
+C:\Users\blast\source\repos\Console_Combat_Simulator\bin\Debug\net8.0\Console_Combat_Simulator.exe
+C:\Users\blast\source\repos\Console_Combat_Simulator\bin\Debug\net8.0\Console_Combat_Simulator.deps.json
+C:\Users\blast\source\repos\Console_Combat_Simulator\bin\Debug\net8.0\Console_Combat_Simulator.runtimeconfig.json
+C:\Users\blast\source\repos\Console_Combat_Simulator\bin\Debug\net8.0\Console_Combat_Simulator.dll
+C:\Users\blast\source\repos\Console_Combat_Simulator\bin\Debug\net8.0\Console_Combat_Simulator.pdb
+C:\Users\blast\source\repos\Console_Combat_Simulator\obj\Debug\net8.0\Console_Combat_Simulator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\blast\source\repos\Console_Combat_Simulator\obj\Debug\net8.0\Console_Combat_Simulator.AssemblyInfoInputs.cache
+C:\Users\blast\source\repos\Console_Combat_Simulator\obj\Debug\net8.0\Console_Combat_Simulator.AssemblyInfo.cs
+C:\Users\blast\source\repos\Console_Combat_Simulator\obj\Debug\net8.0\Console_Combat_Simulator.csproj.CoreCompileInputs.cache
+C:\Users\blast\source\repos\Console_Combat_Simulator\obj\Debug\net8.0\Console_Combat_Simulator.dll
+C:\Users\blast\source\repos\Console_Combat_Simulator\obj\Debug\net8.0\refint\Console_Combat_Simulator.dll
+C:\Users\blast\source\repos\Console_Combat_Simulator\obj\Debug\net8.0\Console_Combat_Simulator.pdb
+C:\Users\blast\source\repos\Console_Combat_Simulator\obj\Debug\net8.0\Console_Combat_Simulator.genruntimeconfig.cache
+C:\Users\blast\source\repos\Console_Combat_Simulator\obj\Debug\net8.0\ref\Console_Combat_Simulator.dll
